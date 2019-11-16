@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Makeathon Locker App</string>
+    <string name="sync_pref">Sync Epoch Time</string>
+    <string name="seed">Seed</string>
+</resources>
